@@ -1,0 +1,2 @@
+rootProject.name='Adaptive icons'
+include ':app'
