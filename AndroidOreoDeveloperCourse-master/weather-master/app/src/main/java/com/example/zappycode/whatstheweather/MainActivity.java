@@ -32,15 +32,6 @@ public class MainActivity extends AppCompatActivity {
     EditText editText;
     TextView resultTextView;
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        editText = findViewById(R.id.editText);
-        resultTextView = findViewById(R.id.resultTextView);
-    }
-
     public void getWeather(View view) {
         try {
         DownloadTask task = new DownloadTask();
@@ -51,6 +42,15 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
             Toast.makeText(getApplicationContext(), "You lost your internet connection!!!", Toast.LENGTH_LONG).show();
         }
+    }
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        editText = findViewById(R.id.editText);
+        resultTextView = findViewById(R.id.resultTextView);
     }
 
 

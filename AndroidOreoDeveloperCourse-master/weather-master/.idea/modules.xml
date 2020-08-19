@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidOreoDeveloperCourse-master-weather-master.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidOreoDeveloperCourse-master-weather-master.iml" group="weather-master" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidOreoDeveloperCourse-master-weather-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidOreoDeveloperCourse-master-weather-master-app.iml" group="weather-master/app" />
       <module fileurl="file://$PROJECT_DIR$/WhatsTheWeather.iml" filepath="$PROJECT_DIR$/WhatsTheWeather.iml" group="WhatsTheWeather" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-cheatsheet-AndroidOreoDeveloperCourse-master-weather-master.iml" filepath="$PROJECT_DIR$/.idea/modules/android-cheatsheet-AndroidOreoDeveloperCourse-master-weather-master.iml" group="weather-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-cheatsheet-AndroidOreoDeveloperCourse-master-weather-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-cheatsheet-AndroidOreoDeveloperCourse-master-weather-master-app.iml" group="weather-master/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-cheatsheet-weather-master.iml" filepath="$PROJECT_DIR$/.idea/modules/android-cheatsheet-weather-master.iml" group="weather-master" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="WhatsTheWeather/app" />
       <module fileurl="file://$PROJECT_DIR$/weather-master.iml" filepath="$PROJECT_DIR$/weather-master.iml" group="weather-master" />
